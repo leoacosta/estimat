@@ -31,3 +31,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* New Styles */
+
+label {
+  display: block;
+}
+
+input {
+  border: none;
+  font-size: 1rem;
+  padding: 1rem;
+}
+
+.mb-1 {
+  margin-bottom: 1rem;
+}
